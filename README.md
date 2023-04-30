@@ -1,0 +1,2 @@
+# document_writing_rule
+ドキュメントの書き方をまとめる
